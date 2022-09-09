@@ -18,7 +18,18 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 500px;
     width: 200px;
     height: 200px;  
+}
+
+.un {
+    border-radius: 58% 42% 30% 70% / 58% 65% 35% 42%;
+}
+
+.deux{
+    border-radius: 36% 64% 76% 24% / 69% 12% 88% 31%;
+}
+
+.trois{
+    border-radius: 77% 23% 57% 43% / 35% 39% 61% 65%;  
 }
